@@ -2,7 +2,7 @@
 
 ### My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ii-san&show_icons=true&include_all_commits=true&theme=dark" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ii-san&show_icons=true&include_all_commits=true&theme=dark"/><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ii-san&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ii-san&layout=compact&theme=dark&langs_count=12"/><br />
 </p>
